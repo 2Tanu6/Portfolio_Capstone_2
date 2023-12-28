@@ -3,7 +3,7 @@
 }
 .bg_img{
     position: relative;
-    width: 94.1rem ;
+    width: 100% ;
     clip-path: inset(0rem 0rem 20rem 0rem);
 }
 h1{
